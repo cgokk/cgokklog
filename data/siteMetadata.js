@@ -15,7 +15,7 @@ const siteMetadata = {
   comment: {
     provider: 'utterances',
     utterancesConfig: {
-      repo: 'cgok/blog',
+      repo: 'cgokk/cgokklog',
       issueTerm: 'title',
       label: 'Comment 💬',
       theme: 'github-light',
