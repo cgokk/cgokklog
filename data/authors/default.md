@@ -1,11 +1,9 @@
 ---
-name: 이름
+name: cgok
 avatar: /static/images/프로필사진.png
-occupation: 타이틀
-company: 컴패니
-email: 이메일주소
-linkedin: 링크드인주소
-github: 깃헙주소
+occupation: Frontend Developer cgok
+email: rkdezen@gmail.com
+github: https://github.com/cgokk
 ---
 
-자기 소개하기
+노래 시작했다 노래 끝났다.
