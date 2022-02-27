@@ -12,6 +12,9 @@ const siteMetadata = {
   email: 'rkdezen@gmail.com',
   github: 'https://github.com/cgokk',
   locale: 'ko-KR',
+  analytics: {
+    googleAnalyticsId: '',
+  },
   comment: {
     provider: 'utterances',
     utterancesConfig: {
