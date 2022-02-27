@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: '',
+  title: 'didididididi',
   author: '',
   headerTitle: '',
   description: '',
